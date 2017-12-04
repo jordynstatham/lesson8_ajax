@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 30, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jordyn Statham
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we built an application that displays information about movies which is a very similar application to IMDb. We 
+utilized jQuery and AJAX methods to parse JSON data returned froma 3rd party server, TheMovieDB (TMDB) API, to access their movie data.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. An application-programming interface (API) is a set of programming instructions and standards for accessing a Web-based software application or Web tool. 
+2. APIs are becoming a crucial part of the Web and Web Development. 
+3. AJAX is an acronym for Asynchronous JavaScript and XML and this technology will allow us to load data from the server without a browser page refresh 
